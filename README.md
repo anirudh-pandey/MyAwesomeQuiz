@@ -5,6 +5,10 @@
 Getting Started
 To use this app you need to have Anroid 4.4 and above.
 
+ScreenShots of the App
+
+    https://imgur.com/a/k0dQp58
+
 Built With
 
     Java - The Programming Language used
